@@ -1,0 +1,27 @@
+/* genérico */
+
+body{font-family:'Lato',sans-serif;color:#747704}
+.text-muted{color:#BCBBBB}
+.image{width:340px}
+.padding-top-35{padding-top:35px}
+.padding-top-20{padding-top:20px}
+.margin-top-10{margin-top:10px}
+.margin-bottom-100{margin-bottom:100px}
+.padding-normal{padding-left:15px;padding-right:15px}
+.padding-0{padding:0}
+.line{background-color:#BCBBBB;height:5px}
+.font-size-40{font-size:40px}
+.font-size-50{font-size:50px}
+.font-size-75{font-size:75px}
+.font-100{font-weight:100}
+.font-200{font-weight:200}
+.font-300{font-weight:300}
+.font-400{font-weight:400}
+.font-500{font-weight:500}
+.font-600{font-weight:600}
+.font-700{font-weight:700}
+.font-800{font-weight:800}
+.font-900{font-weight:900}
+
+/* meu portifólio */
+body#m {background: #08a;color: #fff}
